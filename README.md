@@ -1,4 +1,4 @@
-### Hello! I'm Fernando Oliveira 👋
+### Hello! I'm Fernando de Souza Oliveira 👋
 
 <div>
   <a href="https://github.com/fefoliveira">
